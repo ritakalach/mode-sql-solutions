@@ -27,9 +27,6 @@ SELECT *
   FROM tutorial.us_housing_units
  LIMIT 15
  
- 
--- SQL WHERE
-
 
 -- SQL Comparison Operators
 -- Did the West Region ever produce more than 50,000 housing units in one month?
@@ -85,9 +82,6 @@ SELECT year,
   FROM tutorial.us_housing_units
  WHERE year >= 2000
  
- 
--- SQL Logical Operators
-
 
 -- SQL LIKE
 -- Write a query that returns all rows for which Ludacris was a member of the group.
