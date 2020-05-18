@@ -1,2 +1,2 @@
 # Mode SQL Solutions
-Solutions to [Mode SQL Tutorial for Data Analysis.](https://mode.com/sql-tutorial/)
+Practice problems and solutions from [Mode SQL Tutorial for Data Analysis.](https://mode.com/sql-tutorial/)
